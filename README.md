@@ -1,6 +1,6 @@
 # vlasov-sparse-regression
 
-This repository contains the code developed for the Statistical Learning 2022/2023 Course (DEEC-IST) on the topic:
+This repository contains the code developed for the Statistical Learning 2022/2023 Course (IST) on the topic:
 
 _"Sparse regression for the recovery of nonlinear dynamics: SINDy, thoughts on correlated variables and optimization algorithms"_
 
